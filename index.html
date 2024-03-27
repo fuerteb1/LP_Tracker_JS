@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>  
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>League of Legends LP Tracker</title>
+
+</head>
+<body>
+    
+
+    <div class="webTitle"> 
+        <h1> LP Tracker </h1>
+        <h2> by fuerteb </h2>
+    </div>
+
+
+    <div class="getNameButton"> 
+        <input type="text" id="inputText" placeholder="SummonerName#Tag"></input>
+        <input type="button" id="inputButton" value="Track now" onclick="main()"></input>
+        <button id="resetButton" onclick="resetCanvas()"> reset </button>
+        <button id="reloadButton" onclick="reloadCanvas()"> reload </button>
+    </div>
+
+
+    <div class="charts">
+        <div class="chartBox">
+            <canvas id="soloChart" width="400" height="250"></canvas>
+        </div>
+        <div class="chartBox">
+            <canvas id="flexChart" width="400" height="250"></canvas>
+        </div>
+    </div>
+
+    
+
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="int_v1.js"></script>
+    
+</body>
+</html>

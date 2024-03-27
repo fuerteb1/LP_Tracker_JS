@@ -1,0 +1,200 @@
+{
+    "players": [
+        {
+            "name": "fuerteb",
+            "summoner_id": 123,
+            "solo": {
+                "tier": [
+                    "EMERALD"
+                ],
+                "rank": [
+                    "IV"
+                ],
+                "lp": [
+                    3
+                ],
+                "lp_number": [
+                    2003
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "II"
+                ],
+                "lp": [
+                    42
+                ],
+                "lp_number": [
+                    1842
+                ]
+            }
+        },
+        {
+            "name": "Deezyy",
+            "summoner_id": 999,
+            "solo": {
+                "tier": [
+                    "MASTER"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    280
+                ],
+                "lp_number": [
+                    3080
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "DIAMOND"
+                ],
+                "rank": [
+                    "III"
+                ],
+                "lp": [
+                    94
+                ],
+                "lp_number": [
+                    2594
+                ]
+            }
+        },
+        {
+            "name": "fuerteb",
+            "summoner_id": "J6qEG9dXncGiZNcX4GgFNAvUu_PXv5B2SvbC5m-pZONFjhU",
+            "solo": {
+                "tier": [
+                    "EMERALD"
+                ],
+                "rank": [
+                    "IV"
+                ],
+                "lp": [
+                    4
+                ],
+                "lp_number": [
+                    2004
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "EMERALD"
+                ],
+                "rank": [
+                    "III"
+                ],
+                "lp": [
+                    83
+                ],
+                "lp_number": [
+                    2183
+                ]
+            }
+        },
+        {
+            "name": "DasKleineKr�ppel",
+            "summoner_id": "KikM1kJus2Ns1zhT8T9JQ0yFpNFfCoAT1jA2xk7s3PaArYs",
+            "solo": {
+                "tier": [
+                    "EMERALD"
+                ],
+                "rank": [
+                    "IV"
+                ],
+                "lp": [
+                    26
+                ],
+                "lp_number": [
+                    2026
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    50
+                ],
+                "lp_number": [
+                    1950
+                ]
+            }
+        },
+        {
+            "name": "Deezyy",
+            "summoner_id": "6n6E1-CjBJDcLq8iesMXdJP6lDyG213abHQwONr803Siaiz6nxuEjOlazw",
+            "solo": {
+                "tier": [
+                    "MASTER",
+                    "MASTER"
+                ],
+                "rank": [
+                    "I",
+                    "I"
+                ],
+                "lp": [
+                    226,
+                    207
+                ],
+                "lp_number": [
+                    3026,
+                    3007
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "DIAMOND"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    12
+                ],
+                "lp_number": [
+                    2712
+                ]
+            }
+        },
+        {
+            "name": "JannoPlay",
+            "summoner_id": "ap5DpULNtFL65515lOQf4quUKQoQ8YjjlAGgR-Mx92P1cRc",
+            "solo": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "IV"
+                ],
+                "lp": [
+                    50
+                ],
+                "lp_number": [
+                    1650
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "BRONZE"
+                ],
+                "rank": [
+                    "III"
+                ],
+                "lp": [
+                    16
+                ],
+                "lp_number": [
+                    516
+                ]
+            }
+        }
+    ]
+}

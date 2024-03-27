@@ -1,0 +1,30 @@
+
+
+
+.webTitle {
+    margin: auto;
+    text-align: center;
+    width: 15%;
+    font-family:"Roboto";
+
+}
+
+.getNameButton {
+    margin: auto;
+    width: 30%;
+    height: 100px;
+    text-align: center;
+}
+
+
+.charts{
+    border-color: cadetblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chartBox{
+    width: 40%;
+}
+

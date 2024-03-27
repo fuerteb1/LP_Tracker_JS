@@ -1,0 +1,900 @@
+{
+    "players": [
+        {
+            "name": "fuerteb",
+            "summoner_id": "J6qEG9dXncGiZNcX4GgFNAvUu_PXv5B2SvbC5m-pZONFjhU",
+            "solo": {
+                "tier": [
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "BRONZE",
+                    "EMERALD"
+                ],
+                "rank": [
+                    "IV",
+                    "IV",
+                    "IV",
+                    "II",
+                    "IV"
+                ],
+                "lp": [
+                    4,
+                    26,
+                    7,
+                    0,
+                    7
+                ],
+                "lp_number": [
+                    2004,
+                    2026,
+                    2007,
+                    1000,
+                    2007
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD"
+                ],
+                "rank": [
+                    "III",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "III"
+                ],
+                "lp": [
+                    83,
+                    4,
+                    0,
+                    20,
+                    0,
+                    50
+                ],
+                "lp_number": [
+                    2183,
+                    2204,
+                    2200,
+                    2220,
+                    2200,
+                    2150
+                ]
+            }
+        },
+        {
+            "name": "DasKleineKrüppel",
+            "summoner_id": "KikM1kJus2Ns1zhT8T9JQ0yFpNFfCoAT1jA2xk7s3PaArYs",
+            "solo": {
+                "tier": [
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD"
+                ],
+                "rank": [
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "II",
+                    "II",
+                    "II"
+                ],
+                "lp": [
+                    21,
+                    40,
+                    58,
+                    78,
+                    42,
+                    61,
+                    80,
+                    60,
+                    79,
+                    59,
+                    79,
+                    1,
+                    0,
+                    18,
+                    22,
+                    97,
+                    76,
+                    71,
+                    49,
+                    68,
+                    87,
+                    26,
+                    46,
+                    65
+                ],
+                "lp_number": [
+                    2021,
+                    2040,
+                    2058,
+                    2078,
+                    2042,
+                    2061,
+                    2080,
+                    2060,
+                    2079,
+                    2059,
+                    2079,
+                    2101,
+                    2100,
+                    2118,
+                    2122,
+                    2197,
+                    2176,
+                    2171,
+                    2149,
+                    2168,
+                    2187,
+                    2226,
+                    2246,
+                    2265
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    50
+                ],
+                "lp_number": [
+                    1950
+                ]
+            }
+        },
+        {
+            "name": "Deezyy",
+            "summoner_id": "6n6E1-CjBJDcLq8iesMXdJP6lDyG213abHQwONr803Siaiz6nxuEjOlazw",
+            "solo": {
+                "tier": [
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER",
+                    "MASTER"
+                ],
+                "rank": [
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I"
+                ],
+                "lp": [
+                    207,
+                    187,
+                    207,
+                    215,
+                    195,
+                    175,
+                    195,
+                    215,
+                    235,
+                    256,
+                    236,
+                    256,
+                    276,
+                    296,
+                    297,
+                    277,
+                    298,
+                    318,
+                    298,
+                    340,
+                    340,
+                    360,
+                    340,
+                    320,
+                    301,
+                    321,
+                    301,
+                    342,
+                    403,
+                    383,
+                    364,
+                    385,
+                    366,
+                    387,
+                    325,
+                    284
+                ],
+                "lp_number": [
+                    3007,
+                    2987,
+                    3007,
+                    3015,
+                    2995,
+                    2975,
+                    2995,
+                    3015,
+                    3035,
+                    3056,
+                    3036,
+                    3056,
+                    3076,
+                    3096,
+                    3097,
+                    3077,
+                    3098,
+                    3118,
+                    3098,
+                    3140,
+                    3160,
+                    3140,
+                    3160,
+                    3140,
+                    3120,
+                    3101,
+                    3121,
+                    3101,
+                    3142,
+                    3203,
+                    3183,
+                    3164,
+                    3185,
+                    3166,
+                    3187,
+                    3125,
+                    3084
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "DIAMOND",
+                    "DIAMOND",
+                    "DIAMOND",
+                    "DIAMOND"
+                ],
+                "rank": [
+                    "I",
+                    "I",
+                    "I",
+                    "I"
+                ],
+                "lp": [
+                    12,
+                    0,
+                    18,
+                    1
+                ],
+                "lp_number": [
+                    2712,
+                    2700,
+                    2718,
+                    2701
+                ]
+            }
+        },
+        {
+            "name": "Qui Gôn Jhin",
+            "summoner_id": "nx_5z8lygFJFsTB7rVtOEvZbv7tj5fv_dK8IVYOaX1i2Iht6",
+            "solo": {
+                "tier": [
+                    "PLATINUM",
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "II",
+                    "II"
+                ],
+                "lp": [
+                    31,
+                    61
+                ],
+                "lp_number": [
+                    1831,
+                    1861
+                ]
+            },
+            "flex": {
+                "tier": [],
+                "rank": [],
+                "lp": [],
+                "lp_number": []
+            }
+        },
+        {
+            "name": "JannoFant",
+            "summoner_id": "Gn6UCDdD8q_sL5skfRRVFhZLgbshpa5PoSUr6iSlg4b7QB3L",
+            "solo": {
+                "tier": [],
+                "rank": [],
+                "lp": [],
+                "lp_number": []
+            },
+            "flex": {
+                "tier": [],
+                "rank": [],
+                "lp": [],
+                "lp_number": []
+            }
+        },
+        {
+            "name": "DerCornel",
+            "summoner_id": "6Nsq0iZ1_PbIbR_1t105fzsuybfJVOGzCHxi6OydQ23Xw4EU",
+            "solo": {
+                "tier": [
+                    "BRONZE",
+                    "BRONZE"
+                ],
+                "rank": [
+                    "I",
+                    "I"
+                ],
+                "lp": [
+                    0,
+                    25
+                ],
+                "lp_number": [
+                    700,
+                    725
+                ]
+            },
+            "flex": {
+                "tier": [],
+                "rank": [],
+                "lp": [],
+                "lp_number": []
+            }
+        },
+        {
+            "name": "eXiLLoNX",
+            "summoner_id": "03_BLFf6Zd5ngJq1zmNYd9nXtTkPkGuhR1_igs7gbA47EJ8O",
+            "solo": {
+                "tier": [],
+                "rank": [],
+                "lp": [],
+                "lp_number": []
+            },
+            "flex": {
+                "tier": [],
+                "rank": [],
+                "lp": [],
+                "lp_number": []
+            }
+        },
+        {
+            "name": "CasualCheater",
+            "summoner_id": "muTMYr9vq1boWbpx1EwFcALqSDc4MJeEEc4vil6PRQbvhM8B",
+            "solo": {
+                "tier": [
+                    "SILVER",
+                    "SILVER",
+                    "SILVER",
+                    "SILVER"
+                ],
+                "rank": [
+                    "III",
+                    "III",
+                    "III",
+                    "III"
+                ],
+                "lp": [
+                    59,
+                    35,
+                    60,
+                    18
+                ],
+                "lp_number": [
+                    959,
+                    935,
+                    960,
+                    918
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "SILVER"
+                ],
+                "rank": [
+                    "IV"
+                ],
+                "lp": [
+                    45
+                ],
+                "lp_number": [
+                    845
+                ]
+            }
+        },
+        {
+            "name": "xxkingspixx",
+            "summoner_id": "PYVYVH3DjtGpvtTrVz-XQWLK8NYnD8zQjvcwtZnz3iI18fDT",
+            "solo": {
+                "tier": [
+                    "SILVER"
+                ],
+                "rank": [
+                    "IV"
+                ],
+                "lp": [
+                    37
+                ],
+                "lp_number": [
+                    837
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "SILVER",
+                    "SILVER",
+                    "SILVER"
+                ],
+                "rank": [
+                    "III",
+                    "II",
+                    "II"
+                ],
+                "lp": [
+                    75,
+                    8,
+                    0
+                ],
+                "lp_number": [
+                    975,
+                    1008,
+                    1000
+                ]
+            }
+        },
+        {
+            "name": "Undead",
+            "summoner_id": "VFPoI9oV1MxM24_0Ot74Ga07qKPWeM2EGi0-jTOSQ3NBTMwI5tJTXMcEJA",
+            "solo": {
+                "tier": [
+                    "SILVER"
+                ],
+                "rank": [
+                    "II"
+                ],
+                "lp": [
+                    1
+                ],
+                "lp_number": [
+                    1001
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "III"
+                ],
+                "lp": [
+                    34
+                ],
+                "lp_number": [
+                    1734
+                ]
+            }
+        },
+        {
+            "name": "Magic Jaeck",
+            "summoner_id": "IKeDhLZPj5XX4ZGm5WOJ2qsp979I5gwEUeMqy72NyZWe1Qime6CTSrU4DA",
+            "solo": {
+                "tier": [
+                    "GOLD"
+                ],
+                "rank": [
+                    "III"
+                ],
+                "lp": [
+                    0
+                ],
+                "lp_number": [
+                    1300
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "III"
+                ],
+                "lp": [
+                    24
+                ],
+                "lp_number": [
+                    1724
+                ]
+            }
+        },
+        {
+            "name": "MadMarci",
+            "summoner_id": "KdPmqnAsAhXuHSdRhUYMFyvOVJ7UgkSEqhFddpievgQv1DBxRE2VYOwynQ",
+            "solo": {
+                "tier": [
+                    "GOLD"
+                ],
+                "rank": [
+                    "II"
+                ],
+                "lp": [
+                    50
+                ],
+                "lp_number": [
+                    1450
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "SILVER"
+                ],
+                "rank": [
+                    "IV"
+                ],
+                "lp": [
+                    0
+                ],
+                "lp_number": [
+                    800
+                ]
+            }
+        },
+        {
+            "name": "Kinmus",
+            "summoner_id": "JIfF5iQXG6MRR6jyeF6aCz3hFH1sCVUmUbmSCW9tNGhQE4w",
+            "solo": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    0
+                ],
+                "lp_number": [
+                    1900
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "EMERALD"
+                ],
+                "rank": [
+                    "IV"
+                ],
+                "lp": [
+                    40
+                ],
+                "lp_number": [
+                    2040
+                ]
+            }
+        },
+        {
+            "name": "FlashMN",
+            "summoner_id": "hw5ZUaqeSoSNLwGgNAv053u0_ZFc2DaslXvhZUfZnLbsdSU",
+            "solo": {
+                "tier": [
+                    "SILVER"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    12
+                ],
+                "lp_number": [
+                    1112
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "II"
+                ],
+                "lp": [
+                    33
+                ],
+                "lp_number": [
+                    1833
+                ]
+            }
+        },
+        {
+            "name": "Hiken",
+            "summoner_id": "psjxpfrJamUl9ks8uwaAPtWcS48I75QnY_m9Qci56qhdNQE",
+            "solo": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    13
+                ],
+                "lp_number": [
+                    1913
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    13
+                ],
+                "lp_number": [
+                    1913
+                ]
+            }
+        },
+        {
+            "name": "Montho",
+            "summoner_id": "uU0dN9Hbn0bOdQqfa2F6CBvLZvNc7Gp93wVRQgRH8rxhc2m9e4L1-bGEkw",
+            "solo": {
+                "tier": [
+                    "EMERALD"
+                ],
+                "rank": [
+                    "III"
+                ],
+                "lp": [
+                    22
+                ],
+                "lp_number": [
+                    2122
+                ]
+            },
+            "flex": {
+                "tier": [],
+                "rank": [],
+                "lp": [],
+                "lp_number": []
+            }
+        },
+        {
+            "name": "BroIaf",
+            "summoner_id": "XXmrQay6IR-S6OTvV-g3kHh34d8Y2Rg-SpWUGd_xUfY5U20W",
+            "solo": {
+                "tier": [
+                    "EMERALD"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    10
+                ],
+                "lp_number": [
+                    2310
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "DIAMOND"
+                ],
+                "rank": [
+                    "IV"
+                ],
+                "lp": [
+                    55
+                ],
+                "lp_number": [
+                    2455
+                ]
+            }
+        },
+        {
+            "name": "JannoPlay",
+            "summoner_id": "ap5DpULNtFL65515lOQf4quUKQoQ8YjjlAGgR-Mx92P1cRc",
+            "solo": {
+                "tier": [
+                    "PLATINUM",
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "IV",
+                    "IV"
+                ],
+                "lp": [
+                    50,
+                    26
+                ],
+                "lp_number": [
+                    1650,
+                    1626
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "BRONZE"
+                ],
+                "rank": [
+                    "III"
+                ],
+                "lp": [
+                    0
+                ],
+                "lp_number": [
+                    500
+                ]
+            }
+        },
+        {
+            "name": "Broeki4U",
+            "summoner_id": "JfG7KgIDYSY9QRgZ9wWB-xUBkxhJ689T1a15TSKg0fz6pB1SLFfvF5LcPQ",
+            "solo": {
+                "tier": [
+                    "EMERALD",
+                    "EMERALD"
+                ],
+                "rank": [
+                    "III",
+                    "II"
+                ],
+                "lp": [
+                    81,
+                    8
+                ],
+                "lp_number": [
+                    2181,
+                    2208
+                ]
+            },
+            "flex": {
+                "tier": [],
+                "rank": [],
+                "lp": [],
+                "lp_number": []
+            }
+        },
+        {
+            "name": "CoomAbsorber",
+            "summoner_id": "3_SkBRf85ASnBX2A9NZR16y0HyGgqdsbhRYz-96rN5ZdB-K1",
+            "solo": {
+                "tier": [
+                    "PLATINUM"
+                ],
+                "rank": [
+                    "III"
+                ],
+                "lp": [
+                    36
+                ],
+                "lp_number": [
+                    1736
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "GOLD"
+                ],
+                "rank": [
+                    "II"
+                ],
+                "lp": [
+                    38
+                ],
+                "lp_number": [
+                    1438
+                ]
+            }
+        }
+    ]
+}
