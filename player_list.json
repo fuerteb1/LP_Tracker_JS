@@ -8,29 +8,193 @@
                     "EMERALD",
                     "EMERALD",
                     "EMERALD",
-                    "BRONZE",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
                     "EMERALD"
                 ],
                 "rank": [
                     "IV",
                     "IV",
                     "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III",
                     "II",
-                    "IV"
+                    "II"
                 ],
                 "lp": [
                     4,
                     26,
                     7,
+                    28,
+                    9,
                     0,
-                    7
+                    21,
+                    42,
+                    63,
+                    83,
+                    64,
+                    44,
+                    24,
+                    44,
+                    23,
+                    2,
+                    21,
+                    0,
+                    19,
+                    39,
+                    19,
+                    38,
+                    58,
+                    51,
+                    49,
+                    68,
+                    88,
+                    7,
+                    27,
+                    6,
+                    0,
+                    20,
+                    0,
+                    50,
+                    71,
+                    51,
+                    66,
+                    88,
+                    10,
+                    33,
+                    53,
+                    75,
+                    57,
+                    79,
+                    1,
+                    0
                 ],
                 "lp_number": [
                     2004,
                     2026,
                     2007,
-                    1000,
-                    2007
+                    2028,
+                    2009,
+                    2000,
+                    2021,
+                    2042,
+                    2063,
+                    2083,
+                    2064,
+                    2044,
+                    2024,
+                    2044,
+                    2023,
+                    2002,
+                    2021,
+                    2000,
+                    2019,
+                    2039,
+                    2019,
+                    2038,
+                    2058,
+                    2051,
+                    2049,
+                    2068,
+                    2088,
+                    2107,
+                    2127,
+                    2106,
+                    2100,
+                    2120,
+                    2100,
+                    2050,
+                    2071,
+                    2051,
+                    2066,
+                    2088,
+                    2110,
+                    2133,
+                    2153,
+                    2175,
+                    2157,
+                    2179,
+                    2201,
+                    2200
                 ]
             },
             "flex": {
@@ -97,6 +261,14 @@
                     "EMERALD",
                     "EMERALD",
                     "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
+                    "EMERALD",
                     "EMERALD"
                 ],
                 "rank": [
@@ -123,7 +295,15 @@
                     "III",
                     "II",
                     "II",
-                    "II"
+                    "II",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I",
+                    "I"
                 ],
                 "lp": [
                     21,
@@ -149,7 +329,15 @@
                     87,
                     26,
                     46,
-                    65
+                    65,
+                    45,
+                    49,
+                    70,
+                    50,
+                    52,
+                    51,
+                    31,
+                    34
                 ],
                 "lp_number": [
                     2021,
@@ -175,7 +363,15 @@
                     2187,
                     2226,
                     2246,
-                    2265
+                    2265,
+                    2345,
+                    2349,
+                    2370,
+                    2350,
+                    2352,
+                    2351,
+                    2331,
+                    2334
                 ]
             },
             "flex": {
@@ -198,6 +394,8 @@
             "summoner_id": "6n6E1-CjBJDcLq8iesMXdJP6lDyG213abHQwONr803Siaiz6nxuEjOlazw",
             "solo": {
                 "tier": [
+                    "MASTER",
+                    "MASTER",
                     "MASTER",
                     "MASTER",
                     "MASTER",
@@ -273,6 +471,8 @@
                     "I",
                     "I",
                     "I",
+                    "I",
+                    "I",
                     "I"
                 ],
                 "lp": [
@@ -311,7 +511,9 @@
                     366,
                     387,
                     325,
-                    284
+                    284,
+                    219,
+                    199
                 ],
                 "lp_number": [
                     3007,
@@ -350,11 +552,14 @@
                     3166,
                     3187,
                     3125,
-                    3084
+                    3084,
+                    3019,
+                    2999
                 ]
             },
             "flex": {
                 "tier": [
+                    "DIAMOND",
                     "DIAMOND",
                     "DIAMOND",
                     "DIAMOND",
@@ -364,19 +569,22 @@
                     "I",
                     "I",
                     "I",
-                    "I"
+                    "I",
+                    "II"
                 ],
                 "lp": [
                     12,
                     0,
                     18,
-                    1
+                    1,
+                    28
                 ],
                 "lp_number": [
                     2712,
                     2700,
                     2718,
-                    2701
+                    2701,
+                    2628
                 ]
             }
         },
@@ -386,19 +594,23 @@
             "solo": {
                 "tier": [
                     "PLATINUM",
+                    "PLATINUM",
                     "PLATINUM"
                 ],
                 "rank": [
+                    "II",
                     "II",
                     "II"
                 ],
                 "lp": [
                     31,
-                    61
+                    61,
+                    0
                 ],
                 "lp_number": [
                     1831,
-                    1861
+                    1861,
+                    1800
                 ]
             },
             "flex": {
@@ -430,19 +642,27 @@
             "solo": {
                 "tier": [
                     "BRONZE",
-                    "BRONZE"
+                    "BRONZE",
+                    "SILVER",
+                    "SILVER"
                 ],
                 "rank": [
                     "I",
-                    "I"
+                    "I",
+                    "IV",
+                    "IV"
                 ],
                 "lp": [
                     0,
-                    25
+                    25,
+                    23,
+                    33
                 ],
                 "lp_number": [
                     700,
-                    725
+                    725,
+                    823,
+                    833
                 ]
             },
             "flex": {
@@ -557,16 +777,24 @@
             "summoner_id": "VFPoI9oV1MxM24_0Ot74Ga07qKPWeM2EGi0-jTOSQ3NBTMwI5tJTXMcEJA",
             "solo": {
                 "tier": [
+                    "SILVER",
+                    "SILVER",
                     "SILVER"
                 ],
                 "rank": [
+                    "II",
+                    "II",
                     "II"
                 ],
                 "lp": [
-                    1
+                    1,
+                    2,
+                    28
                 ],
                 "lp_number": [
-                    1001
+                    1001,
+                    1002,
+                    1028
                 ]
             },
             "flex": {
@@ -589,16 +817,20 @@
             "summoner_id": "IKeDhLZPj5XX4ZGm5WOJ2qsp979I5gwEUeMqy72NyZWe1Qime6CTSrU4DA",
             "solo": {
                 "tier": [
+                    "GOLD",
                     "GOLD"
                 ],
                 "rank": [
-                    "III"
+                    "III",
+                    "IV"
                 ],
                 "lp": [
-                    0
+                    0,
+                    85
                 ],
                 "lp_number": [
-                    1300
+                    1300,
+                    1285
                 ]
             },
             "flex": {
@@ -823,16 +1055,20 @@
             },
             "flex": {
                 "tier": [
+                    "BRONZE",
                     "BRONZE"
                 ],
                 "rank": [
-                    "III"
+                    "III",
+                    "IV"
                 ],
                 "lp": [
-                    0
+                    0,
+                    50
                 ],
                 "lp_number": [
-                    500
+                    500,
+                    450
                 ]
             }
         },
@@ -869,16 +1105,24 @@
             "summoner_id": "3_SkBRf85ASnBX2A9NZR16y0HyGgqdsbhRYz-96rN5ZdB-K1",
             "solo": {
                 "tier": [
+                    "PLATINUM",
+                    "PLATINUM",
                     "PLATINUM"
                 ],
                 "rank": [
+                    "III",
+                    "III",
                     "III"
                 ],
                 "lp": [
-                    36
+                    36,
+                    96,
+                    72
                 ],
                 "lp_number": [
-                    1736
+                    1736,
+                    1796,
+                    1772
                 ]
             },
             "flex": {
@@ -894,6 +1138,134 @@
                 "lp_number": [
                     1438
                 ]
+            }
+        },
+        {
+            "name": "Vergnügen",
+            "summoner_id": "dX9u_XhBRbtq1R6TrhMaScXo2RX04sfF_nVlgV7shn3EWKS_Exi3af-fzA",
+            "solo": {
+                "tier": [
+                    "MASTER"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    170
+                ],
+                "lp_number": [
+                    2970
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "EMERALD"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    50
+                ],
+                "lp_number": [
+                    2350
+                ]
+            }
+        },
+        {
+            "name": "Erisu Greyrat",
+            "summoner_id": "i79lgxGRKar6two2Ds2E6jCB-B6CLdkyCrl4Rsg1GIa1BKO7",
+            "solo": {
+                "tier": [
+                    "EMERALD"
+                ],
+                "rank": [
+                    "III"
+                ],
+                "lp": [
+                    1
+                ],
+                "lp_number": [
+                    2101
+                ]
+            },
+            "flex": {
+                "tier": [
+                    "DIAMOND",
+                    "DIAMOND",
+                    "DIAMOND",
+                    "DIAMOND",
+                    "DIAMOND"
+                ],
+                "rank": [
+                    "III",
+                    "III",
+                    "III",
+                    "III",
+                    "III"
+                ],
+                "lp": [
+                    65,
+                    45,
+                    48,
+                    36,
+                    57
+                ],
+                "lp_number": [
+                    2565,
+                    2545,
+                    2548,
+                    2536,
+                    2557
+                ]
+            }
+        },
+        {
+            "name": "BluetoothAuto",
+            "summoner_id": "MAYuIK2i0R3Xpt8u5Lpj-dEl6sFu_jwXJ5ZHCB2dYu5GH3eq",
+            "solo": {
+                "tier": [
+                    "SILVER"
+                ],
+                "rank": [
+                    "II"
+                ],
+                "lp": [
+                    23
+                ],
+                "lp_number": [
+                    1023
+                ]
+            },
+            "flex": {
+                "tier": [],
+                "rank": [],
+                "lp": [],
+                "lp_number": []
+            }
+        },
+        {
+            "name": "RauchgegenPain",
+            "summoner_id": "3H2y4ZCFO8UMaWspW0b5KAdzlPsOPcMsAMm9OFYR4EYjwnI",
+            "solo": {
+                "tier": [
+                    "GOLD"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    44
+                ],
+                "lp_number": [
+                    1544
+                ]
+            },
+            "flex": {
+                "tier": [],
+                "rank": [],
+                "lp": [],
+                "lp_number": []
             }
         }
     ]

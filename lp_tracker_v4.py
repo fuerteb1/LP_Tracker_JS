@@ -1,6 +1,6 @@
 #   TODO Ideen
 #   #tag zur json hinzufuegen
-#
+#   
 #
 #
 
@@ -15,7 +15,7 @@ CORS(app, resources={r"/lp_tracker_v4.py": {"origins": "*"}}) # Fuegt CORS-Unter
 app.config['CORS_HEADERS'] = 'Content-Type'
 
 
-api_key = 'RGAPI-6ef6e0fb-9426-414b-b66b-427a69a367fe'
+api_key = 'RGAPI-9c168d07-edc6-445d-ac8d-192930ee93fc'
 
     # summoner_id: J6qEG9dXncGiZNcX4GgFNAvUu_PXv5B2SvbC5m-pZONFjhU
     # puuid: Bz7KhrsR9of44GqKI49hd6LZcW0Dl9npLP5kT4Fif8spBNZziNGxv2uIyqVSx5rDhtOZttWKcySnKw
