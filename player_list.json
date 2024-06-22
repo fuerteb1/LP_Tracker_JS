@@ -50,7 +50,20 @@
                     "EMERALD",
                     "EMERALD",
                     "EMERALD",
-                    "EMERALD"
+                    "EMERALD",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM"
                 ],
                 "rank": [
                     "IV",
@@ -98,7 +111,20 @@
                     "III",
                     "III",
                     "II",
-                    "II"
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "I",
+                    "I"
                 ],
                 "lp": [
                     4,
@@ -146,7 +172,20 @@
                     57,
                     79,
                     1,
-                    0
+                    0,
+                    15,
+                    43,
+                    37,
+                    19,
+                    51,
+                    78,
+                    55,
+                    32,
+                    59,
+                    36,
+                    10,
+                    35,
+                    24
                 ],
                 "lp_number": [
                     2004,
@@ -194,7 +233,20 @@
                     2157,
                     2179,
                     2201,
-                    2200
+                    2200,
+                    1815,
+                    1843,
+                    1837,
+                    1819,
+                    1851,
+                    1878,
+                    1855,
+                    1832,
+                    1859,
+                    1836,
+                    1810,
+                    1935,
+                    1924
                 ]
             },
             "flex": {
@@ -204,7 +256,19 @@
                     "EMERALD",
                     "EMERALD",
                     "EMERALD",
-                    "EMERALD"
+                    "EMERALD",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM",
+                    "PLATINUM"
                 ],
                 "rank": [
                     "III",
@@ -212,7 +276,19 @@
                     "II",
                     "II",
                     "II",
-                    "III"
+                    "III",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II",
+                    "II"
                 ],
                 "lp": [
                     83,
@@ -220,7 +296,19 @@
                     0,
                     20,
                     0,
-                    50
+                    50,
+                    15,
+                    43,
+                    37,
+                    19,
+                    51,
+                    78,
+                    55,
+                    32,
+                    59,
+                    36,
+                    10,
+                    41
                 ],
                 "lp_number": [
                     2183,
@@ -228,7 +316,19 @@
                     2200,
                     2220,
                     2200,
-                    2150
+                    2150,
+                    1815,
+                    1843,
+                    1837,
+                    1819,
+                    1851,
+                    1878,
+                    1855,
+                    1832,
+                    1859,
+                    1836,
+                    1810,
+                    1841
                 ]
             }
         },
@@ -269,7 +369,9 @@
                     "EMERALD",
                     "EMERALD",
                     "EMERALD",
-                    "EMERALD"
+                    "EMERALD",
+                    "EMERALD",
+                    "PLATINUM"
                 ],
                 "rank": [
                     "IV",
@@ -303,7 +405,9 @@
                     "I",
                     "I",
                     "I",
-                    "I"
+                    "I",
+                    "III",
+                    "II"
                 ],
                 "lp": [
                     21,
@@ -337,7 +441,9 @@
                     52,
                     51,
                     31,
-                    34
+                    34,
+                    83,
+                    59
                 ],
                 "lp_number": [
                     2021,
@@ -371,21 +477,31 @@
                     2352,
                     2351,
                     2331,
-                    2334
+                    2334,
+                    2183,
+                    1859
                 ]
             },
             "flex": {
                 "tier": [
-                    "PLATINUM"
+                    "PLATINUM",
+                    "EMERALD",
+                    "EMERALD"
                 ],
                 "rank": [
-                    "I"
+                    "I",
+                    "III",
+                    "II"
                 ],
                 "lp": [
-                    50
+                    50,
+                    83,
+                    71
                 ],
                 "lp_number": [
-                    1950
+                    1950,
+                    2183,
+                    2271
                 ]
             }
         },
@@ -432,6 +548,10 @@
                     "MASTER",
                     "MASTER",
                     "MASTER",
+                    "MASTER",
+                    "DIAMOND",
+                    "MASTER",
+                    "MASTER",
                     "MASTER"
                 ],
                 "rank": [
@@ -471,6 +591,10 @@
                     "I",
                     "I",
                     "I",
+                    "I",
+                    "I",
+                    "I",
+                    "III",
                     "I",
                     "I",
                     "I"
@@ -513,7 +637,11 @@
                     325,
                     284,
                     219,
-                    199
+                    199,
+                    40,
+                    42,
+                    46,
+                    4
                 ],
                 "lp_number": [
                     3007,
@@ -554,7 +682,11 @@
                     3125,
                     3084,
                     3019,
-                    2999
+                    2999,
+                    2540,
+                    2842,
+                    2846,
+                    2804
                 ]
             },
             "flex": {
@@ -696,9 +828,11 @@
                     "SILVER",
                     "SILVER",
                     "SILVER",
+                    "SILVER",
                     "SILVER"
                 ],
                 "rank": [
+                    "III",
                     "III",
                     "III",
                     "III",
@@ -708,13 +842,15 @@
                     59,
                     35,
                     60,
-                    18
+                    18,
+                    38
                 ],
                 "lp_number": [
                     959,
                     935,
                     960,
-                    918
+                    918,
+                    938
                 ]
             },
             "flex": {
@@ -818,33 +954,85 @@
             "solo": {
                 "tier": [
                     "GOLD",
-                    "GOLD"
+                    "GOLD",
+                    "BRONZE",
+                    "SILVER",
+                    "SILVER",
+                    "BRONZE"
                 ],
                 "rank": [
                     "III",
-                    "IV"
+                    "IV",
+                    "I",
+                    "IV",
+                    "III",
+                    "II"
                 ],
                 "lp": [
                     0,
-                    85
+                    85,
+                    36,
+                    1,
+                    37,
+                    82
                 ],
                 "lp_number": [
                     1300,
-                    1285
+                    1285,
+                    736,
+                    801,
+                    937,
+                    682
                 ]
             },
             "flex": {
                 "tier": [
-                    "PLATINUM"
+                    "PLATINUM",
+                    "GOLD",
+                    "GOLD",
+                    "GOLD",
+                    "GOLD",
+                    "GOLD",
+                    "GOLD",
+                    "SILVER",
+                    "GOLD",
+                    "GOLD"
                 ],
                 "rank": [
-                    "III"
+                    "III",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "IV",
+                    "I",
+                    "IV",
+                    "IV"
                 ],
                 "lp": [
-                    24
+                    24,
+                    0,
+                    24,
+                    48,
+                    21,
+                    24,
+                    0,
+                    75,
+                    1,
+                    0
                 ],
                 "lp_number": [
-                    1724
+                    1724,
+                    1200,
+                    1224,
+                    1248,
+                    1221,
+                    1224,
+                    1200,
+                    1175,
+                    1201,
+                    1200
                 ]
             }
         },

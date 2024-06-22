@@ -1,5 +1,5 @@
 #   TODO Ideen
-#   #tag zur json hinzufuegen
+#   den #tag zur json hinzufuegen
 #   
 #
 #
@@ -15,7 +15,7 @@ CORS(app, resources={r"/lp_tracker_v4.py": {"origins": "*"}}) # Fuegt CORS-Unter
 app.config['CORS_HEADERS'] = 'Content-Type'
 
 
-api_key = 'RGAPI-9c168d07-edc6-445d-ac8d-192930ee93fc'
+api_key = 'RGAPI-d0b9e887-6ed1-4027-b947-5248b5bd40f2'
 
     # summoner_id: J6qEG9dXncGiZNcX4GgFNAvUu_PXv5B2SvbC5m-pZONFjhU
     # puuid: Bz7KhrsR9of44GqKI49hd6LZcW0Dl9npLP5kT4Fif8spBNZziNGxv2uIyqVSx5rDhtOZttWKcySnKw
@@ -321,27 +321,26 @@ def find_rank_info(summoner_id): # return als Dict mit String : Liste von Listen
         '?api_key=' + 
         api_key
     )
-    rank_solo, rank_flex, rank_info = [], [], {'solo': [], 'flex': []}
-    p_info = req.get(req_url).json() # legt nur Eintrag an, falls man eingeranked ist
-
-    if len(p_info) == 2:
-        if p_info[0]['queueType'] == 'RANKED_SOLO_5x5': # in der Json ist der hoehere Rank zuerst aufgefuehrt
-            rank_solo = [p_info[0]['tier'], p_info[0]['rank'], p_info[0]['leaguePoints']]
-            rank_flex = [p_info[1]['tier'], p_info[1]['rank'], p_info[1]['leaguePoints']]
-        else:
-            rank_solo = [p_info[1]['tier'], p_info[1]['rank'], p_info[1]['leaguePoints']]
-            rank_flex = [p_info[0]['tier'], p_info[0]['rank'], p_info[0]['leaguePoints']]
-        rank_info = {'solo': rank_solo, 'flex': rank_flex}
-
-    elif len(p_info) == 1:
-        if p_info[0]['queueType'] == 'RANKED_SOLO_5x5':
-            rank_solo = [p_info[0]['tier'], p_info[0]['rank'], p_info[0]['leaguePoints']]
-            rank_info = {'solo': rank_solo, 'flex': []}
-        else:
-            rank_flex = [p_info[0]['tier'], p_info[0]['rank'], p_info[0]['leaguePoints']]
-            rank_info = {'solo': [], 'flex': rank_flex}
     
+    p_info = req.get(req_url).json() # legt nur Eintrag an, falls man eingeranked ist
+    rank_solo, rank_flex, rank_info = [], [], {'solo': [], 'flex': []}
+
+    rank_queues = [entry['queueType'] for entry in p_info]
+     
+    if 'RANKED_SOLO_5x5' in rank_queues:
+        s_index = rank_queues.index('RANKED_SOLO_5x5')
+        rank_solo = [p_info[s_index]['tier'], p_info[s_index]['rank'], p_info[s_index]['leaguePoints']]
+    
+    if 'RANKED_FLEX_SR' in rank_queues:
+        f_index = rank_queues.index('RANKED_FLEX_SR')
+        rank_flex = [p_info[f_index]['tier'], p_info[f_index]['rank'], p_info[f_index]['leaguePoints']]
+    
+    rank_info = {'solo': rank_solo, 'flex': rank_flex}
+
     return rank_info # {'solo': ['EMERALD', 'IV', 32], 'flex': []}  (flex ist hier unranked)
+
+       
+    
 
 
 

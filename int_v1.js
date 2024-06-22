@@ -1,8 +1,10 @@
 /*
     Ideen: 
     - Zeitraum der gezeigten Daten skalieren (zB nur letzte 20 Games anzeigen)
+        - auswahlknopf, bei dem 'alle', '25', '10' letzte games zur Auswahl steht
     - Hover ueber Punkt gibt Rang als EMERALD, IV, 4 LP an
     - Hintergrund ueber momentanem Rang blau faerben, alles darunter rot
+    - auswahl von oft genutzten namen
 
 */
 ////////////////////////////////////   General Functions   /////////////////////////////////////////
