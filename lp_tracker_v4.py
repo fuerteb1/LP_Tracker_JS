@@ -15,11 +15,12 @@ CORS(app, resources={r"/lp_tracker_v4.py": {"origins": "*"}}) # Fuegt CORS-Unter
 app.config['CORS_HEADERS'] = 'Content-Type'
 
 
-api_key = 'RGAPI-d0b9e887-6ed1-4027-b947-5248b5bd40f2'
+api_key = 'RGAPI-36250786-858b-4028-bf19-2bd579af9242'
 
     # summoner_id: J6qEG9dXncGiZNcX4GgFNAvUu_PXv5B2SvbC5m-pZONFjhU
     # puuid: Bz7KhrsR9of44GqKI49hd6LZcW0Dl9npLP5kT4Fif8spBNZziNGxv2uIyqVSx5rDhtOZttWKcySnKw
 
+    # 2orW8tNvdN_cYj7tHY2fF36jSwP0iHYZU1bY2MM2oPCrkEI
 
     ##################################   Player + Creation   ###########################################
 
@@ -38,7 +39,7 @@ class Player:
             }
         self.__flex_rank = {'tier': None, 'rank': None, 'lp': None, 'lp_number': None}
         if len(rank['flex']) != 0:
-            self.__solo_rank = {
+            self.__flex_rank = {
                 'tier': rank['flex'][0],
                 'rank': rank['flex'][1],
                 'lp': rank['flex'][2],
@@ -129,7 +130,7 @@ class Player:
         return json_data
         
 
-    def new_solo_to_json(self):
+    def new_solo_to_json(self): # erstellt fuer neuen Spieler entsprechenden Eintrag fuer 'solo' in der json  
         solo_data = { 'tier': [], 'rank': [], 'lp': [], 'lp_number': [] }
         if self.is_ranked_solo():
             solo_data = {
