@@ -587,7 +587,8 @@
                     "MASTER",
                     "MASTER",
                     "MASTER",
-                    "MASTER"
+                    "MASTER",
+                    "DIAMOND"
                 ],
                 "rank": [
                     "I",
@@ -635,7 +636,8 @@
                     "I",
                     "I",
                     "I",
-                    "I"
+                    "I",
+                    "II"
                 ],
                 "lp": [
                     207,
@@ -682,7 +684,8 @@
                     4,
                     260,
                     207,
-                    115
+                    115,
+                    26
                 ],
                 "lp_number": [
                     3007,
@@ -730,7 +733,8 @@
                     2804,
                     3060,
                     3007,
-                    2915
+                    2915,
+                    2626
                 ]
             },
             "flex": {
@@ -741,7 +745,8 @@
                     "DIAMOND",
                     "DIAMOND",
                     "MASTER",
-                    "MASTER"
+                    "MASTER",
+                    "GRANDMASTER"
                 ],
                 "rank": [
                     "I",
@@ -749,6 +754,7 @@
                     "I",
                     "I",
                     "II",
+                    "I",
                     "I",
                     "I"
                 ],
@@ -759,7 +765,8 @@
                     1,
                     28,
                     37,
-                    26
+                    26,
+                    245
                 ],
                 "lp_number": [
                     2712,
@@ -768,7 +775,8 @@
                     2701,
                     2628,
                     2837,
-                    2826
+                    2826,
+                    3045
                 ]
             }
         },
@@ -1552,27 +1560,39 @@
             "name": "NichtPhilip",
             "summoner_id": "2orW8tNvdN_cYj7tHY2fF36jSwP0iHYZU1bY2MM2oPCrkEI",
             "solo": {
-                "tier": [],
-                "rank": [],
-                "lp": [],
-                "lp_number": []
+                "tier": [
+                    "SILVER"
+                ],
+                "rank": [
+                    "I"
+                ],
+                "lp": [
+                    11
+                ],
+                "lp_number": [
+                    1111
+                ]
             },
             "flex": {
                 "tier": [
                     "BRONZE",
-                    "SILVER"
+                    "SILVER",
+                    "BRONZE"
                 ],
                 "rank": [
                     "I",
-                    "IV"
+                    "IV",
+                    "II"
                 ],
                 "lp": [
                     21,
-                    5
+                    5,
+                    72
                 ],
                 "lp_number": [
                     721,
-                    805
+                    805,
+                    672
                 ]
             }
         }

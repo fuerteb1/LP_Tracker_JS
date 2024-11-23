@@ -15,7 +15,7 @@ CORS(app, resources={r"/lp_tracker_v4.py": {"origins": "*"}}) # Fuegt CORS-Unter
 app.config['CORS_HEADERS'] = 'Content-Type'
 
 
-api_key = 'RGAPI-36250786-858b-4028-bf19-2bd579af9242'
+api_key = 'RGAPI-f87c9954-a60e-4e16-911b-912c6df42794'
 
     # summoner_id: J6qEG9dXncGiZNcX4GgFNAvUu_PXv5B2SvbC5m-pZONFjhU
     # puuid: Bz7KhrsR9of44GqKI49hd6LZcW0Dl9npLP5kT4Fif8spBNZziNGxv2uIyqVSx5rDhtOZttWKcySnKw
